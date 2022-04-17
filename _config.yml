@@ -38,7 +38,7 @@ aux_links:
 
 collections:
   home:
-     permalink: "/:path/"
+    permalink: "/:path/"
     output: True
   docs:
     permalink: "/docs/:path/"
