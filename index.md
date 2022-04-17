@@ -3,6 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
 
 # Introduction
 {: .fs-9 }
