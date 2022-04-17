@@ -40,3 +40,8 @@ collections:
   docs:
     permalink: "/docs/:path/"
     output: True
+    
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
