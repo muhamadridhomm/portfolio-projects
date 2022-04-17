@@ -2,7 +2,6 @@
 layout: default
 title: Home
 nav_order: 1
-permalink: /
 ---
 
 # Introduction
@@ -27,5 +26,5 @@ This here is a collection of my portfolio projects, take a look at the sidebar o
 
 ## Overview
 
-* [Dr. Semmelweis and the Discovery of Handwashing](#handwash-project) :
+* [Dr. Semmelweis and the Discovery of Handwashing](https://muhamadridhomm.github.io/portfolio-projects/docs/handwash/) :
 A  modified *Datacamp* project with Python regarding Dr. Semmelweiss Handwash's data.
