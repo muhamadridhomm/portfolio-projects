@@ -37,7 +37,7 @@ aux_links:
 
 collections:
   docs:
-    permalink: "https://muhamadridhomm.github.io/portfolio-projects/"
+    permalink: "/"
     output: true
   handwash:
     permalink: "/portfolio-projects/docs/"
