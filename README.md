@@ -1,12 +1,8 @@
-# handwash-project
-A data science project with Python regarding Dr. Sommelweiss Handwash's data.
+# portfolio-projects
+This here is a collection of my portfolio projects, take a look at this repository branch or you can check the overview below.
 
-This is a Datacamp Project. If you're active there, you may find a project about Dr. Semmelweis and the Discovery of Handwashing. 
-But, since this project has been used in many data scientist's portfolio, we're going to modify some of the things here and there to distinguish ourself a little bit :).
+## handwash-project
 
-**Project Description**
+* [Dr. Semmelweis and the Discovery of Handwashing](#handwash-project) :
+A  modified *Datacamp* project with Python regarding Dr. Semmelweiss Handwash's data.
 
-In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was 
-a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
-
-Language used: Python
