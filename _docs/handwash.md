@@ -15,9 +15,6 @@ This is a Datacamp Project. If you're active there, you may find a project about
 
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
 <details open markdown="block">
   <summary>
     Table of contents
