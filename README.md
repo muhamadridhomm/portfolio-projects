@@ -5,6 +5,6 @@ https://muhamadridhomm.github.io/portfolio-projects/
 
 ## Overview
 
-* [Dr. Semmelweis and the Discovery of Handwashing](#handwash-project) :
+* [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/muhamadridhomm/portfolio-projects/tree/main/projects/handwash_semmelweis) :
 A  modified *Datacamp* project with Python regarding Dr. Semmelweiss Handwash's data.
 
