@@ -1,4 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
+baseurl: /portfolio-projects
 
 title: Portfolio Projects
 
@@ -37,15 +38,5 @@ aux_links:
 
 collections:
   docs:
-    permalink: "/"
-    output: true
-  handwash:
-    permalink: "/portfolio-projects/docs/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Home
-    handwash:
-      name: Handwash
+    permalink: "/docs/:path/"
+    output: True
