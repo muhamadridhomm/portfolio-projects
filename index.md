@@ -1,3 +1,13 @@
+# Introduction
+{: .fs-9 }
+
+Hi! My Name is Muhamad Ridho Maulana Mustaqim and I'm a Data Scientist/Analyst!
+If you're curious about me take a look at my LinkedIn profile with a click of a button below.
+
+[LinkedIn Profile](https://www.linkedin.com/in/muhamadridhomm/){: .btn .btn-blue }
+
+Otherwise, here's a collection of my projects.
+
 # Portfolio Projects
 {: .fs-9 }
 
