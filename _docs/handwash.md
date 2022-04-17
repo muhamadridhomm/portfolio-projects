@@ -16,6 +16,8 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthrough discovery:
 
 The language used: Python
 
+[Check the Project on Github](https://github.com/muhamadridhomm/portfolio-projects/tree/main/projects/handwash_semmelweis){: .btn .btn-purple }
+
 ## 1. Meet Dr. Ignaz Semmelweis
 <p><img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_20/img/ignaz_semmelweis_1860.jpeg"></p>
 <!--
