@@ -37,15 +37,15 @@ aux_links:
 
 collections:
   docs:
-    permalink: "/portfolio-projects/docs/"
+    permalink: "/portfolio-projects/"
     output: true
-  tutorials:
-    permalink: "/:collection/:path/"
+  handwash:
+    permalink: "/portfolio-projects/docs/"
     output: true
 
 just_the_docs:
   collections:
     docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
+      name: Home
+    handwash:
+      name: Handwash
