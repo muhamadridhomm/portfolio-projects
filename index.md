@@ -11,10 +11,8 @@ Otherwise, here's a collection of my projects.
 # Portfolio Projects
 {: .fs-9 }
 
-This here is a collection of my portfolio projects, take a look at the sidebar or you can check the link and overview below.
+This here is a collection of my portfolio projects, take a look at the sidebar or the overview below.
 {: .fs-6 .fw-300 }
-
-[View it on GitHub.io](https://muhamadridhomm.github.io/portfolio-projects/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
