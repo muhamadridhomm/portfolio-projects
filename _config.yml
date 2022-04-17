@@ -37,11 +37,16 @@ aux_links:
     - "//github.com/muhamadridhomm/portfolio-projects"
 
 collections:
+  home:
+     permalink: "/:path/"
+    output: True
   docs:
     permalink: "/docs/:path/"
     output: True
     
 just_the_docs:
   collections:
+    home:
+      name: Home
     docs:
       name: Documentation
