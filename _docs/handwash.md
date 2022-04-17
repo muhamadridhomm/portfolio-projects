@@ -6,6 +6,16 @@ nav_order: 2
 
 # Dr. Semmelweis and the Discovery of Handwashing
 
+A data science project with Python regarding Dr. Sommelweiss Handwash's data.
+
+This is a Datacamp Project. If you're active there, you may find a project about Dr. Semmelweis and the Discovery of Handwashing. But, since this project has been used in many data scientists' portfolios, we're going to modify some of the things here and there to distinguish ourselves a little bit :).
+
+## Project Description
+
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthrough discovery: he discovers handwashing. Contaminated hands were a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+
+The language used: Python
+
 ## 1. Meet Dr. Ignaz Semmelweis
 <p><img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_20/img/ignaz_semmelweis_1860.jpeg"></p>
 <!--
@@ -25,7 +35,7 @@ yearly = pd.read_csv("datasets/yearly_deaths_by_clinic.csv")
 # Print out yearly
 yearly
 ```
-
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -141,7 +151,7 @@ clinic_2 = yearly[yearly['clinic']=='clinic 2']
 # Print out clinic_1
 clinic_1
 ```
-
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -221,7 +231,7 @@ clinic_2.plot(x="year", y="proportion_deaths",
 ```
 <AxesSubplot:xlabel='year', ylabel='Proportion deaths'>
 
-![png](/_docs/img/output_7_1.png)
+![png](https://raw.githubusercontent.com/muhamadridhomm/portfolio-projects/main/_docs/img/output_7_1.png)
 
 ## 4. The handwashing begins
 <p>Why is the proportion of deaths consistently so much higher in Clinic 1? Semmelweis saw the same pattern and was puzzled and distressed. The only difference between the clinics was that many medical students served at Clinic 1, while mostly midwife students served at Clinic 2. While the midwives only tended to the women giving birth, the medical students also spent time in the autopsy rooms examining corpses. </p>
@@ -239,7 +249,7 @@ monthly["proportion_deaths"] = monthly["deaths"]/monthly["births"]
 # Print out the first rows in monthly
 monthly.head(1)
 ```
-
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -272,7 +282,7 @@ ax = monthly.plot(x="date", y="proportion_deaths",
             ylabel="Proportion deaths")
 ```
 
-![png](/_docs/img/output_13_0.png)
+![png](https://raw.githubusercontent.com/muhamadridhomm/portfolio-projects/main/_docs/img/output_13_0.png)
 
 ## 6. The effect of handwashing highlighted
 <p>Starting from the summer of 1847 the proportion of deaths is drastically reduced and, yes, this was when Semmelweis made handwashing obligatory. </p>
@@ -294,7 +304,7 @@ after_washing.plot(x="date", y="proportion_deaths",
 ```
 <AxesSubplot:xlabel='date', ylabel='Proportion deaths'>
 
-![png](/_docs/img/output_16_1.png)
+![png](https://raw.githubusercontent.com/muhamadridhomm/portfolio-projects/main/_docs/img/output_16_1.png)
 
 ## 7. More handwashing, fewer deaths?
 <p>Again, the graph shows that handwashing had a huge effect. How much did it reduce the monthly proportion of deaths on average?</p>
