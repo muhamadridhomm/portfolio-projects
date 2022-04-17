@@ -2,7 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 baseurl: /portfolio-projects
 
 title: Portfolio Projects
-logo: "/images/icon.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
