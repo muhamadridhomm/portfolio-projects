@@ -42,6 +42,8 @@ collections:
     output: True
     
 just_the_docs:
+  title: Home
+  url: https://muhamadridhomm.github.io/portfolio-projects/
   collections:
     docs:
       name: Home
