@@ -38,15 +38,10 @@ aux_links:
 
 collections:
   home:
-    permalink: "/:path/"
-    output: True
-  docs:
-    permalink: "/docs/:path/"
+    permalink: "/"
     output: True
     
 just_the_docs:
   collections:
     home:
       name: Home
-    docs:
-      name: Documentation
