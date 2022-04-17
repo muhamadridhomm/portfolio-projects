@@ -8,6 +8,8 @@ If you're curious about me take a look at my LinkedIn profile with a click of a 
 
 Otherwise, here's a collection of my projects.
 
+---
+
 # Portfolio Projects
 {: .fs-9 }
 
