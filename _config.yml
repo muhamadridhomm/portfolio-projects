@@ -38,7 +38,7 @@ aux_links:
 
 collections:
   home:
-    permalink: "/portfolio-projects/:path"
+    permalink: "/portfolio-projects/:path/"
     output: True
     
 just_the_docs:
