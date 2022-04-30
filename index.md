@@ -33,8 +33,8 @@ This here is a collection of my portfolio projects, take a look at the sidebar o
 
 ## Overview
 
-* [Dr. Semmelweis and the Discovery of Handwashing](https://muhamadridhomm.github.io/portfolio-projects/docs/handwash/) :
-A  modified *Datacamp* project with Python regarding Dr. Semmelweiss Handwash's data.
-
 * [The State of Pandemic: Indonesia vs The World](https://github.com/muhamadridhomm/portfolio-projects/docs/pandemic_indonesia_vs_world) :
 The condition of Covid-19 pandemic from it's beginning until now in Indonesia versus the world.
+
+* [Dr. Semmelweis and the Discovery of Handwashing](https://muhamadridhomm.github.io/portfolio-projects/docs/handwash/) :
+A  modified *Datacamp* project with Python regarding Dr. Semmelweiss Handwash's data.
