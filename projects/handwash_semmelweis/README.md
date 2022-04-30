@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Dr. Semmelweis and the Discovery of Handwashing
 
 A data science project with Python regarding Dr. Sommelweiss Handwash's data.
