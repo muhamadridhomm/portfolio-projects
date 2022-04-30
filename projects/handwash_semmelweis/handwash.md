@@ -2,7 +2,6 @@
 layout: default
 title: Dr. Semmelweis and the Discovery of Handwashing
 nav_order: 3
-has_children : true
 ---
 
 # Dr. Semmelweis and the Discovery of Handwashing
