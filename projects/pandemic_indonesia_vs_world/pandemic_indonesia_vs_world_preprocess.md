@@ -25,8 +25,10 @@ Before we proceed to analyze the data, we're going to clean, select, and manipul
 
 ## Data Checking
 
+```python
 import numpy as np
 import pandas as pd
 from datetime import datetime
+```
 
 **_Loading the Data_**
