@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # The State of Pandemic: Indonesia vs The World
 
 Two years ago, in 2020, the world is swept by a storm of a virus, named Covid-19 that spreads chaos everywhere. This virus has started emerging in Wuhan, China and now, 
