@@ -2,7 +2,7 @@
 layout: default
 title: Data Preprocessing
 nav_order: 2
-parent: The State of Pandemic: Indonesia vs The World
+parent: The State of Pandemic Indonesia vs The World
 ---
 
 # Data Preprocessing
