@@ -2,6 +2,7 @@
 layout: default
 title: The State of Pandemic: Indonesia vs The World
 nav_order: 2
+has_children: true
 ---
 
 # The State of Pandemic: Indonesia vs The World
@@ -32,5 +33,12 @@ An analysis of the state of Covid-19 in Indonesia compared to the rest of the wo
 
 The language used: Python
 
+
 ---
 
+## Project Flow
+
+Before we starts doing anything, I'm going to split the project into two phase:
+
+1. [Data Preprocessing (Cleaning, Manipulating, Selection, etc)]
+2. [Analyzing (EDA, Hypothesis Testing, etc)]
