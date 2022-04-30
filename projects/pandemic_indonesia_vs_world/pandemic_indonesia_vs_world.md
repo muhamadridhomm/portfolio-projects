@@ -2,7 +2,7 @@
 layout: default
 title: The State of Pandemic: Indonesia vs The World
 nav_order: 2
-has_children: true
+has_children : true
 ---
 
 # The State of Pandemic: Indonesia vs The World
