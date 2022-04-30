@@ -38,7 +38,7 @@ aux_links:
 
 collections:
   docs:
-    permalink: "/docs/:path/"
+    permalink: "/:collection/:path/"
     output: True
     
 just_the_docs:
