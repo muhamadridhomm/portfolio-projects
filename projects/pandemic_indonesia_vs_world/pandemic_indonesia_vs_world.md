@@ -41,5 +41,5 @@ The language used: Python
 
 Before we starts doing anything, I'm going to split the project into two phase:
 
-1. [Data Preprocessing (Cleaning, Manipulating, Selection, etc)] (https://muhamadridhomm.github.io/portfolio-projects/projects/pandemic_indonesia_vs_world/pandemic_indonesia_vs_world_preprocess.html)
-2. [Analyzing (EDA, Hypothesis Testing, etc)]
+1. [Data Preprocessing (Cleaning, Manipulating, Selection, etc)](https://muhamadridhomm.github.io/portfolio-projects/projects/pandemic_indonesia_vs_world/pandemic_indonesia_vs_world_preprocess.html)
+2. [Analyzing (EDA, Hypothesis Testing, etc)](https://muhamadridhomm.github.io/portfolio-projects/projects/pandemic_indonesia_vs_world/pandemic_indonesia_vs_world_analysis.html)
