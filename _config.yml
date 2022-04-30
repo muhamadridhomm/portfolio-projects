@@ -36,14 +36,4 @@ aux_links:
   "My Portfolio Projects on GitHub":
     - "//github.com/muhamadridhomm/portfolio-projects"
 
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: True
-    
-just_the_docs:
-  title: Home
-  url: https://muhamadridhomm.github.io/portfolio-projects/
-  collections:
-    docs:
-      name: Home
+
